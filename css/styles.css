@@ -1,0 +1,25 @@
+span.firstname {
+    color: blue;
+}
+
+span.greeting {
+    color: pink;
+}
+
+em.lastname {
+    color: red;
+}
+
+table, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+td {
+    width: 70px;
+}
+
+.red {
+    border: 1px solid red;
+    color: red;
+}
