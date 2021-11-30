@@ -1,0 +1,15 @@
+.box {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.target {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    background: red;
+    border: 4px dashed black;
+}
